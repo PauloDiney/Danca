@@ -637,8 +637,8 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 4rem;
-        height: 50vh;
+        padding: 2rem;
+        height: 70vh;
         transform: translateX(100%);
         transition: var(--transition);
         z-index: 1000;
